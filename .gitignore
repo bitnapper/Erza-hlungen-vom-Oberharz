@@ -1,4 +1,6 @@
 *.swp
+*.epub
 .DS_Store
 .DS_Store?
 ._*
+Makefile
