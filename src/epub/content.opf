@@ -53,6 +53,7 @@
 		<item href="text/chapter-16.xhtml" id="chapter-33.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/foreword.xhtml" id="foreword.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/glossary.xhtml" id="glossary.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
@@ -90,5 +91,6 @@
 		<itemref idref="chapter-31.xhtml"/>
 		<itemref idref="chapter-32.xhtml"/>
 		<itemref idref="chapter-33.xhtml"/>
+		<itemref idref="glossary.xhtml"/>
 	</spine>
 </package>
